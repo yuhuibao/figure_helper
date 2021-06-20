@@ -1,0 +1,11 @@
+Benchmark,Baseline,LBPU,LTCU,Valkyrie
+mt,0.01044,,,
+mm,0.1172,,,
+km,0.0847,,,
+st,0.0386,,,
+pr,0.0693,,,
+spmv,0.0835,,,
+flw,1,,,
+fir,0.00494,,,
+bs,0.0763,,,
+sc,0.000839,,,
